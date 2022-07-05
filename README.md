@@ -2,6 +2,12 @@
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif"></img>
 </div>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/matheusfpenna/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img>
+  </a>
+</div>
+
 - 👋 Hi, I’m @devpenny
 - 👀 I’m interested in learning Back-End Software Engineering
 - 🌱 I’m currently learning ...
