@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/matheusfpenna/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img>
   </a>
-      <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+      <img src="https://komarev.com/ghpvc/?username=devpenny&style=flat-square&color=blue" alt=""/>
 </div>
 
 - 👋 Hi, I’m @devpenny
