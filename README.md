@@ -20,7 +20,6 @@
 ### 👀 About Me :
 - 😊 Hi, I’m @devpenny;
 - 💞️ I am a Back-End developer from Brazil;
-- :telescope: I’m currently looking forward to work as a Software Engineer;
 - :zap: In my free time i like to learn about new technologies, solve coding problems on LeetCode and play some games!
 - 📫 Reach me on LinkedIn, i'm open for work!
 
